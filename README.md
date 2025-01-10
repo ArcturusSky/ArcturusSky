@@ -23,7 +23,7 @@ I am a **Web and Mobile Developer** student at **Holberton School**, currently s
 
 ---
 
-## 👾 Ethical AI Usage:
+## :robot: Ethical AI Usage:
 - I am committed to using **Artificial Intelligence** in an **ethical and responsible** way, always ensuring that my projects contribute positively to society and are aligned with best practices in fairness, privacy, and transparency.
 
 ---
@@ -54,7 +54,7 @@ Always looking for ways to integrate my gaming experiences into my coding projec
 
 ---
 
-## 📝 Philosophy of Code:
+## :thought_balloon:  Philosophy of Code:
 - **Clean and Readable Code**: I prioritize writing clear, well-commented code, even if it sometimes affects optimization. My goal is to ensure that the code is easily understandable at first glance, making it accessible and maintainable for any developer, even in the future.
 
 ---
