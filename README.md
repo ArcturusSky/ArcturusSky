@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Anne-Cécile BESSE!
+# 👋 Hello, I'm Arc :bow_and_arrow: !
 
 Welcome to my GitHub profile! 🎉
 
