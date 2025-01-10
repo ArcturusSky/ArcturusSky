@@ -1,5 +1,4 @@
-# [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, I'm Arc ![](https://media.giphy.com/media/l0MYyYNs4fcdRBKGk/giphy.gif)
- !
+# [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello, I'm Arc ! :bow_and_arrow:
 
 Welcome to my GitHub profile! 🎉
 
