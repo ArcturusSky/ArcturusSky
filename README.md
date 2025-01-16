@@ -34,6 +34,13 @@ I am a **Web and Mobile Developer** student at **Holberton School**, currently s
 
 ---
 
+## 📈 Some Git Stats:
+
+![ArcturusSky's Stats](https://github-readme-stats.vercel.app/api?username=ArcturusSky&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ArcturusSky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcturusSky&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+---
+
 ## 🧠 Soft Skills:
 - **Creativity & Problem Solving**: I love thinking outside the box to tackle challenges.
 - **Adaptability**: Quick to learn new technologies and methodologies, ensuring I can easily transition from one language to another.
