@@ -30,7 +30,6 @@ I am a **Web and Mobile Developer** student at **Holberton School**, currently s
 
 ## 🌱 What I'm Currently Working On:
 - **Developing a browser game** with a team, combining various web technologies. This project will also serve as my final exam for Holberton School.
-- **Working on a Python-based Airbnb clone** with SQL integration as part of my Holberton School curriculum.
 - **Learning and experimenting with game development** (combining my love for games with coding).
 
 ---
