@@ -11,7 +11,7 @@ I am a **Web and Mobile Developer** student at **Holberton School**, currently s
 - 🧑‍💻 **Previous experience in Information Sciences** and **Biblioteconomy** (specializing in library management, user services in university libraries).
 - 📚 **Strong attention to detail**.
 - 🗣️ **Fluent in both English and French**, making collaboration easy with international teams.
-- 🎮 **Avid gamer** – I enjoy playing almost any kind of genre, from little indie games to big AAA.
+- 🎮 **Avid gamer** – I enjoy playing almost any kind of genre, from little indie games to big AAA (except horror games).
 
 ---
 
@@ -42,21 +42,20 @@ I am a **Web and Mobile Developer** student at **Holberton School**, currently s
 ---
 
 ## 🧠 Soft Skills:
-- **Creativity & Problem Solving**: I love thinking outside the box to tackle challenges.
-- **Adaptability**: Quick to learn new technologies and methodologies, ensuring I can easily transition from one language to another.
-- **Leadership & Communication**: Experience working in collaborative environments and managing team projects.
+- **Creativity & Problem Solving**: I especially like to fix codes and having a problem to solve
+- **Adaptability**: Quick to adapt to new technologies and methodologies, ensuring I can transition from one language to another.
 - **Empathy & Networking**: I value building strong professional relationships and helping others grow.
 
 ---
 
 ## 🎮 Interests:
-- **Art**: Digital drawing, piano, and creative design.
-- **Gaming**: Passionate about video games in general I can play RPGs, simulations, action games, strategy games, indie games or AAA.
+- **Art**: Digital drawing, piano and singing.
+- **Gaming**: Passionate about video games in general I can play RPGs, simulations, action games, strategy games, indie games or AAA. Except horror games.
 Always looking for ways to integrate my gaming experiences into my coding projects.
 
 
 ### 🔭 **Currently exploring**: Web Development, Game Development, Open Source Projects  
-### 🌱 **Learning**: Svelte, Flask, Game Development
+### 🌱 **Learning**: Svelte, Phaser, HTML Canva 2D, Game Development
 
 ---
 
