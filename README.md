@@ -24,7 +24,7 @@ I am a **Web and Mobile Developer** student at **Holberton School**, currently s
 ---
 
 ## :robot: Ethical AI Usage:
-- I am committed to using **Artificial Intelligence** in an **ethical and responsible** way, always ensuring that my projects contribute positively to society and are aligned with best practices in fairness, privacy, and transparency.
+- I am committed to using **Artificial Intelligence** in an **ethical and responsible** way.
 
 ---
 
