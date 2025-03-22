@@ -37,6 +37,7 @@ I am a junior **Web and Mobile Developer**, always studying full-stack developme
 ## 📈 Some Git Stats:
 
 ![ArcturusSky's Stats](https://github-readme-stats.vercel.app/api?username=ArcturusSky&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ArcturusSky's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArcturusSky&theme=vue-dark&hide_border=true)
 ![ArcturusSky's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcturusSky&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
