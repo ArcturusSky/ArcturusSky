@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🎉
 
-I am a **Web and Mobile Developer** student at **Holberton School**, currently studying full-stack development. With a background in **Information Sciences** and **Biblioteconomy**, I bring a unique blend of technical skills, creativity, and communication abilities. I am passionate about **gaming**, **art**, and **solving problems** through code. My main focus is on writing clean, maintainable, and scalable code.
+I am a junior **Web and Mobile Developer**, always studying full-stack development. With a background in **Information Sciences** and **Biblioteconomy**, I bring a unique blend of technical skills, creativity, and communication abilities. I am passionate about **gaming**, **art**, and **solving problems** through code. My main focus is on writing clean, maintainable, and scalable code.
 
 ---
 
