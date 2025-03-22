@@ -7,7 +7,7 @@ I am a junior **Web and Mobile Developer**, always studying full-stack developme
 ---
 
 ## 🚀 About Me:
-- 🎓 **Currently studying Web and Mobile Development** at Holberton School.
+- 🎓 **Jurnior** Just finish the foundamental cursus of Web and Mobile developper at Holberton School.
 - 🧑‍💻 **Previous experience in Information Sciences** and **Biblioteconomy** (specializing in library management, user services in university libraries).
 - 📚 **Strong attention to detail**.
 - 🗣️ **Fluent in both English and French**, making collaboration easy with international teams.
