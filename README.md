@@ -17,7 +17,7 @@ I am a **Web and Mobile Developer** student at **Holberton School**, currently s
 
 ## 💻 Tech Skills:
 - **Languages**: Python 🐍, JavaScript 🌐, C, SQL, NoSQL
-- **Technologies**: Node.js, Docker, MongoDB, HTML5, CSS
+- **Technologies**: Node.js, Docker, MongoDB, HTML5, CSS, Phaser, Tiled
 - **Tools**: Git, GitHub, EMACS, Unix
 - **Database Management**: SQL, SQLite, MongoDB
 
@@ -55,7 +55,7 @@ Always looking for ways to integrate my gaming experiences into my coding projec
 
 
 ### 🔭 **Currently exploring**: Web Development, Game Development, Open Source Projects  
-### 🌱 **Learning**: Svelte, Phaser, HTML Canva 2D, Game Development
+### 🌱 **Learning**: Svelte, Game Development
 
 ---
 
