@@ -29,8 +29,7 @@ I am a junior **Web and Mobile Developer**, always studying full-stack developme
 ---
 
 ## 🌱 What I'm Currently Working On:
-- **Developing a browser game** with a team, combining various web technologies. This project will also serve as my final exam for Holberton School.
-- **Learning and experimenting with game development** (combining my love for games with coding).
+- **Developping a Website for an association**
 
 ---
 
