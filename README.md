@@ -55,7 +55,7 @@ Always looking for ways to integrate my gaming experiences into my coding projec
 
 
 ### 🔭 **Currently exploring**: Web Development, Game Development, Open Source Projects  
-### 🌱 **Learning**: Svelte, Game Development
+### 🌱 **Learning**: Django
 
 ---
 
